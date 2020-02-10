@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/gdrive/My Drive/Wolf_Sheep_Project/RL_wolf_sheep_env_colab/models/model.ckpt"
+all_model_checkpoint_paths: "/content/gdrive/My Drive/Wolf_Sheep_Project/RL_wolf_sheep_env_colab/models/model.ckpt"
